@@ -1,50 +1,24 @@
-# desafio-sharenergy
+# Desafio Sharenergy
 
-<div align="center" style="margin: 30px;">
-    <a href="https://refine.dev">
-    <img src="https://refine.ams3.cdn.digitaloceanspaces.com/refine_logo.png"  align="center" />
-    </a>
-</div>
-<br/>
+## Para instalar dependências do frontend
 
-This [refine](https://github.com/pankod/refine) project was generated with [superplate](https://github.com/pankod/refine).
-
-## Getting Started
-
-**refine** is a React-based framework for building data-intensive applications in no time ✨
-
-Refine offers lots of out-of-the box functionality for rapid development, without compromising extreme customizability. Use-cases include, but are not limited to admin panels, B2B applications and dashboards.
-
-## Available Scripts
-
-### Running the development server.
+```bash
+    yarn 
+```
+### Rode o comando para abrir o frontend em sua máquina.
 
 ```bash
     yarn dev
 ```
 
-### Building for production.
+### Acesse o link para o repositório do backend. Lá tem um readme.md explicando como fazer para rodar o backend em sua máquina.
 
-```bash
-    yarn build
-```
+<a href="https://github.com/levynascimento/desafio-sharenergy-backend" >
+    Link do repositório
+</a>
 
-### Running the production server.
+### Vídeo explicando o que fiz.
 
-```bash
-    yarn start
-```
-
-## Learn More
-
-To learn more about **refine**, please check out the [Documentation](https://refine.dev/docs)
-
-- **REST Data Provider** [Docs](https://refine.dev/docs/core/providers/data-provider/#overview)
-- **Ant Design** [Docs](https://refine.dev/docs/ui-frameworks/antd/tutorial/)
-- **Antd Light/Dark Mode** [Docs](#)
-- **React Router** [Docs](https://refine.dev/docs/core/providers/router-provider/)
-
-
-## License
-
-MIT
+<a href="https://youtu.be/Y-oP7ckqljQ">
+    Clique para assistir o vídeo
+</a>
